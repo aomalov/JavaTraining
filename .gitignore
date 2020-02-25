@@ -1,2 +1,4 @@
 # Project exclude paths
 /QueueImpl/target/
+.idea
+*.iml
